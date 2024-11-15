@@ -260,3 +260,50 @@ header {
 .login-register p a:hover {
     text-decoration: underline;
 }
+
+
+@media (max-width: 768px) {
+    header {
+        padding: 20px 50px;
+    }
+  
+    
+    .navigation a {
+        margin-left: 20px;
+        font-size: 0.9em;
+    }
+
+    .navigation .btn-popup {
+        width: 100px;
+        height: 40px;
+        font-size: 0.9em;
+        margin-left: 20px;
+    }
+
+    .wrapper {
+        width: 300px;
+    }
+
+    .input-box {
+        height: 45px;
+        margin: 20px 0;
+    }
+
+    .input-box input {
+        padding: 0 25px 0 5px;
+    }
+
+    .btn {
+        height: 40px;
+        font-size: 0.9em;
+    }
+
+    .form-box h2 {
+        font-size: 1.8em;
+    }
+
+    .login-register {
+        font-size: 0.8em;
+        margin: 20px 0 8px;
+    }
+}
