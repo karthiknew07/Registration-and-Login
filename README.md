@@ -30,6 +30,7 @@ The Registration and Login System is a foundational project designed to implemen
     <li>Can be integrated as a module into larger systems.</li>
 </ul>
 <h5>This project is ideal for developers looking to learn or implement secure and scalable user authentication systems in their applications.</h5>
-<img width="1280" alt="Screen Shot 2024-11-25 at 11 01 08 am" src="https://github.com/user-attachments/assets/55c577fc-5c58-463d-8432-ffd275f7640c">
+
+<img width="1280" alt="Screen Shot 2024-11-25 at 11 24 01 am" src="https://github.com/user-attachments/assets/f77f02de-7e6a-4c7c-9abd-feb0cb440dcf">
 
 
